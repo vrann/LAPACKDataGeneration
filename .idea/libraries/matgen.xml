@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="matgen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jlapack-0.8/testing/matgen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
